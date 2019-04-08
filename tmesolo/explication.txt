@@ -1,0 +1,21 @@
+Question 1:
+
+J'ai fais un fonceur comme pour le foot, et j'ai utiliser ma fonction de défenseur comme sa le joueur reste a une certaine distance du milieu quand il n'a pas la balle.
+Quand la balle vient de son côté, il va dessus et tire sur l'ennemie le plus proche
+
+
+Question 2:
+Je regarde ou le joueur adverse se situe.
+S'il est dans la zone supérieur du terrain, alors je tire en dessous (et inversement)
+
+
+Question 3 :
+Ce que je change par rapport a l'attaquant, c'est quil est plus en retrait sur le terrain et quand il a la balle, il fait la passe a son coéquipier
+
+Question 4 :
+Pour le 1v1 j'utilise l'attaquant de base, sauf qu'il a pas de limite pour reculer
+
+
+Question 5 :
+Je prend un defenseur en arriere, dès qu'il a le ballon il fait la passe a l'attaquant qui lui, tire dans le camp adverse
+
